@@ -1,0 +1,14 @@
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\bin\Debug\net8.0\carRental.exe
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\bin\Debug\net8.0\carRental.deps.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\bin\Debug\net8.0\carRental.runtimeconfig.json
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\bin\Debug\net8.0\carRental.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\bin\Debug\net8.0\carRental.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.AssemblyInfoInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.AssemblyInfo.cs
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\refint\carRental.dll
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.pdb
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\carRental.genruntimeconfig.cache
+C:\Users\User\Documents\01.Estudos\08.Volvo\.net\workspace\Exercicios\carRental\obj\Debug\net8.0\ref\carRental.dll
